@@ -24,6 +24,7 @@ Education
 </div>
 
 College of Advanced Manufacturing and Robotics, **Peking University**
+Advisor: <a href="https://www.zhongkuili-pku.com/cn/">Prof. Zhongkui Li</a>
 
 <div style="display: flex; align-items: baseline; flex-wrap: wrap; margin-top: 1.2em;">
   <strong>B.S. in Automation</strong>
@@ -32,39 +33,24 @@ College of Advanced Manufacturing and Robotics, **Peking University**
 
 College of Information Science and Engineering, **Northeastern University**
 
-Research Experience
-======
-
-<div style="display: flex; align-items: baseline; flex-wrap: wrap;">
-  <strong>Graduate Research Assistant</strong>
-  <span style="margin-left: auto; white-space: nowrap;">Sep 2024 – present</span>
-</div>
-
-Multi-Agent Control and Decision (MAC&D) Laboratory, Peking University
-- Research on large language models for robot task planning
-- Advisor: Prof. Zhongkui Li
-
 Skills
 ======
 
-- **Programming:** Python, C++
+- **Programming:** Python
 - **Frameworks & Tools:** ROS, PyTorch, Git, Linux, LaTeX
 - **Languages:** Chinese (native), English
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+Coming soon.
 
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
+Coming soon.
 
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+Coming soon.
