@@ -28,3 +28,8 @@ College of Advanced Manufacturing and Robotics, **Peking University**
 </div>
 
 College of Information Science and Engineering, **Northeastern University**
+
+## News
+
+- **Sep 2024** — Started my M.S. at Peking University
+- **Jun 2024** — Graduated from Northeastern University with a B.S. in Automation
