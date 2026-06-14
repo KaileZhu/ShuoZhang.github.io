@@ -2,15 +2,40 @@
 permalink: /
 title: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-It’s me.
+Hi! I'm **Shuo Zhang (张硕)**, an M.S. student at Peking University, advised by Prof. Zhongkui Li in the Multi-Agent Control and Decision (MAC&D) Laboratory.
 
+## Research
 
-A data-driven personal website
-======
-It’s me.
+My research focuses on leveraging **Large Language Models (LLMs)** for **robot task planning** — enabling robots to understand, reason, and execute complex tasks through natural language instructions.
 
+I'm broadly interested in:
+
+- LLM-based task planning and reasoning
+- Embodied AI
+- Human-robot interaction
+
+## Education
+
+<div style="display: flex; align-items: baseline; gap: 0.5em; flex-wrap: wrap;">
+  <strong>M.S. student</strong>
+  <span style="margin-left: auto; white-space: nowrap;">Sep 2024 – Jun 2027 (expected)</span>
+</div>
+
+College of Advanced Manufacturing and Robotics, **Peking University**
+
+<div style="display: flex; align-items: baseline; gap: 0.5em; flex-wrap: wrap; margin-top: 1em;">
+  <strong>B.S. in Automation</strong>
+  <span style="margin-left: auto; white-space: nowrap;">Sep 2020 – Jun 2024</span>
+</div>
+
+College of Information Science and Engineering, **Northeastern University**
+
+## News
+
+- **Sep 2024** — Started my M.S. at Peking University
+- **Jun 2024** — Graduated from Northeastern University with a B.S. in Automation

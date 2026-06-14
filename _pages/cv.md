@@ -9,56 +9,62 @@ redirect_from:
 
 {% include base_path %}
 
+<div style="margin-bottom: 1.5em;">
+  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary" style="text-decoration: none;">
+    <i class="fas fa-download" aria-hidden="true"></i> Download CV (PDF)
+  </a>
+</div>
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
+<div style="display: flex; align-items: baseline; flex-wrap: wrap;">
+  <strong>M.S. student</strong>
+  <span style="margin-left: auto; white-space: nowrap;">2024 – 2027 (expected)</span>
+</div>
+
+College of Advanced Manufacturing and Robotics, **Peking University**
+
+<div style="display: flex; align-items: baseline; flex-wrap: wrap; margin-top: 1.2em;">
+  <strong>B.S. in Automation</strong>
+  <span style="margin-left: auto; white-space: nowrap;">2020 – 2024</span>
+</div>
+
+College of Information Science and Engineering, **Northeastern University**
+
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+<div style="display: flex; align-items: baseline; flex-wrap: wrap;">
+  <strong>Graduate Research Assistant</strong>
+  <span style="margin-left: auto; white-space: nowrap;">Sep 2024 – present</span>
+</div>
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+Multi-Agent Control and Decision (MAC&D) Laboratory, Peking University
+- Research on large language models for robot task planning
+- Advisor: Prof. Zhongkui Li
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+- **Programming:** Python, C++
+- **Frameworks & Tools:** ROS, PyTorch, Git, Linux, LaTeX
+- **Languages:** Chinese (native), English
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
