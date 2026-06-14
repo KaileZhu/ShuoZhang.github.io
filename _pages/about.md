@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm **Shuo Zhang (张硕)**, an M.S. student at Peking University, advised by <a href="https://www.zhongkuili-pku.com/cn/">Prof. Zhongkui Li</a> in the Multi-Agent Control and Decision (MAC&D) Laboratory.
+Hi! I'm **Shuo Zhang (张硕)**, an M.S. student at Peking University, advised by <a href="https://www.zhongkuili-pku.com/cn/">Prof. Zhongkui Li</a> and <a href="https://mengguo.github.io/personal_site/">Prof. Meng Guo</a> in the Multi-Agent Control and Decision (MAC&D) Laboratory.
 
 ## Research
 

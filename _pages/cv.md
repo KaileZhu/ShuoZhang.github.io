@@ -24,7 +24,7 @@ Education
 </div>
 
 College of Advanced Manufacturing and Robotics, **Peking University**
-Advisor: <a href="https://www.zhongkuili-pku.com/cn/">Prof. Zhongkui Li</a>
+Advisors: <a href="https://www.zhongkuili-pku.com/cn/">Prof. Zhongkui Li</a>, <a href="https://mengguo.github.io/personal_site/">Prof. Meng Guo</a>
 
 <div style="display: flex; align-items: baseline; flex-wrap: wrap; margin-top: 1.2em;">
   <strong>B.S. in Automation</strong>
